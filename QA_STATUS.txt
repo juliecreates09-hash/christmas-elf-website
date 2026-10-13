@@ -1,0 +1,1 @@
+Assembly 4.2 repair candidate. Syntax check passed. Browser execution blocked by environment policy (ERR_BLOCKED_BY_ADMINISTRATOR), so NO GREEN/NO RELEASE. Check language, countdown, previews, calendar, books, zoom and desktop/mobile. Original visual assets unchanged.

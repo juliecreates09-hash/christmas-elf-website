@@ -1,0 +1,62 @@
+[
+  {
+    "id": "L03",
+    "file": "assets/frame_L03.png",
+    "source": "a_vertical_cozy_highly_detailed_warm_lit_chris.png",
+    "dimensions": [
+      818,
+      1923
+    ],
+    "sha256": "63da14ba2925d9c126624d2e3c2897dd3e38e84d2fba8187b85612551c8103fd"
+  },
+  {
+    "id": "L04",
+    "file": "assets/frame_L04.png",
+    "source": "a_vertical_cozy_whimsical_winter_christmas_scene.png",
+    "dimensions": [
+      818,
+      1922
+    ],
+    "sha256": "c2c3f33dc0bf9fbe61d680d77be78e1beba4f174084c7a645c5e1de769752480"
+  },
+  {
+    "id": "L05",
+    "file": "assets/frame_L05.png",
+    "source": "a_cozy_highly_detailed_warm_cinematic_christmas.png",
+    "dimensions": [
+      818,
+      1922
+    ],
+    "sha256": "38ea885a83ae9b3d734426a39d03e75d1aead2429890d139638081742f84e026"
+  },
+  {
+    "id": "R03",
+    "file": "assets/frame_R03.png",
+    "source": "a_cozy_warm_highly_detailed_cinematic_christmas.png",
+    "dimensions": [
+      818,
+      1922
+    ],
+    "sha256": "b4ef720ef9f0270d40b908c54d22c934065b5507eae30270c07927888be42a40"
+  },
+  {
+    "id": "R04",
+    "file": "assets/frame_R04.png",
+    "source": "a_whimsical_highly_detailed_warm_and_cold_winter.png",
+    "dimensions": [
+      818,
+      1922
+    ],
+    "sha256": "694efdb06b1a63a107f6ba8577f787c646121c34983e587e032e57ba0f0641ae"
+  },
+  {
+    "id": "R05",
+    "file": "assets/frame_R05.png",
+    "source": "a_warm_cozy_highly_detailed_whimsical_christmas.png",
+    "dimensions": [
+      818,
+      1922
+    ],
+    "sha256": "62b7790467636fd7ec087d5dc2344d766d5717d47f33c97e3f5c3d0a03f6cbbe"
+  }
+]

@@ -1,0 +1,1 @@
+Assembly 4.3 local frame integration candidate. Source: Assembly 4.2 Layout Repair. Six new images L03-L05/R03-R05; four originals unchanged. No JavaScript edits, no publication. Browser audit required.
